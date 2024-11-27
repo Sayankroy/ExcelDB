@@ -8,8 +8,7 @@
 </head>
 <body>
 <h3>Index Page</h3>
-	<a href="register">Sign up</a>| 
-	<a href="download">Download excel file</a>
-	
+<a href="register">Sign Up</a>|
+<a href="download">Download CSV file</a>
 </body>
 </html>

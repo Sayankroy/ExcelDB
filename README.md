@@ -1,0 +1,1 @@
+This is a Springboot Project that registers an user and stores their details in an ArrayList. On clicking the "Download CSV file", it will store the details into a csv file and the file gets downloaded.
